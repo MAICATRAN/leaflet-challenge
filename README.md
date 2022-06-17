@@ -7,3 +7,6 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 #Get your data set
 ![full_page](Images/3-Data.png).<br/>
+
+#Level 2: More Data (Optional)
+![full_page](Images/5-Advanced.png).<br/>
