@@ -3,4 +3,7 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 The USGS is interested in building a new set of tools that will allow them visualise their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualise their data will allow them to better educate the public and other government organisations (and hopefully secure more funding..) on issues facing our planet.
 
 #Level 1: Basic Visualisation
-![full_page](OutPut/DarkMap_full_screenshot.png).<br/>
+![full_page](Images/2-BasicMap.png).<br/>
+
+#Get your data set
+![full_page](Images/3-Data.png).<br/>
